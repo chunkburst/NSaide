@@ -364,7 +364,7 @@
                 console.log('[NS助手] 加载快捷回复样式');
                 GM_xmlhttpRequest({
                     method: 'GET',
-                    url: 'https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/quickReply/style.css',
+                    url: 'https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/quickReply/style.css',
                     onload: (response) => {
                         if (response.status === 200) {
                             console.log('[NS助手] 快捷回复样式加载成功');
