@@ -4,47 +4,47 @@
         {
             "name": "设置面板",
             "id": "settings",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/settings/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/settings/index.js"
         },
         {
             "name": "用户卡片增强",
             "id": "userCard",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/userCard/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/userCard/index.js"
         },
         {
             "name": "编辑器增强",
             "id": "editorEnhance",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/editorEnhance/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/editorEnhance/index.js"
         },
         {
             "name": "自动签到",
             "id": "autoSignIn",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/autoSignIn/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/autoSignIn/index.js"
         },
         {
             "name": "UI美化",
             "id": "uiEnhance",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/uiEnhance/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/uiEnhance/index.js"
         },
         {
             "name": "自动翻页",
             "id": "autoPage",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/autoPage/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/autoPage/index.js"
         },
         {
             "name": "等级标签",
             "id": "levelTag",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/levelTag/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/levelTag/index.js"
         },
         {
             "name": "快捷回复",
             "id": "quickReply",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/quickReply/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/quickReply/index.js"
         },
         {
             "name": "内容预览",
             "id": "contentPreview",
-            "url": "https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/contentPreview/index.js"
+            "url": "https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/contentPreview/index.js"
         }
     ]
 } 
