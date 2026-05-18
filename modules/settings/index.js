@@ -564,7 +564,7 @@
 
             GM_xmlhttpRequest({
                 method: 'GET',
-                url: 'https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/settings/style.css',
+                url: 'https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/settings/style.css',
                 onload: (response) => {
                     if (response.status === 200) {
                         console.log('[NS助手] 设置面板样式加载成功');
