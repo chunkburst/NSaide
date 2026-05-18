@@ -25,7 +25,7 @@
     
     console.log('[NS助手] 脚本开始加载');
 
-    const CONFIG_URL = 'https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/config.json';
+    const CONFIG_URL = 'https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/config.json';
     const CACHE_EXPIRY = 30 * 60 * 1000;
     const CACHE_KEY_PREFIX = 'ns_module_cache_';
     const CONFIG_CACHE_KEY = 'ns_config_cache';
