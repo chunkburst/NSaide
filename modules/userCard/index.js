@@ -312,7 +312,7 @@
             console.log('[NS助手] 开始加载用户卡片样式');
             GM_xmlhttpRequest({
                 method: 'GET',
-                url: 'https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/userCard/style.css',
+                url: 'https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/userCard/style.css',
                 onload: (response) => {
                     if (response.status === 200) {
                         console.log('[NS助手] 用户卡片样式加载成功');
