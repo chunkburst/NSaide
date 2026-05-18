@@ -371,7 +371,7 @@
             console.log('[NS助手] 开始加载等级标签样式');
             GM_xmlhttpRequest({
                 method: 'GET',
-                url: 'https://raw.githubusercontent.com/stardeep925/NSaide/main/modules/levelTag/style.css',
+                url: 'https://raw.githubusercontent.com/chunkburst/NSaide/main/modules/levelTag/style.css',
                 onload: (response) => {
                     if (response.status === 200) {
                         console.log('[NS助手] 等级标签样式加载成功');
